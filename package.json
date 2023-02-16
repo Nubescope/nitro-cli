@@ -1,0 +1,27 @@
+{
+  "name": "@nitro-build/cli",
+  "version": "0.11.1",
+  "description": "A build tool for React Native that is up to 10x faster than normal builds",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitro-build/cli.git"
+  },
+  "keywords": [
+    "react-native",
+    "ci",
+    "mobile",
+    "build",
+    "android",
+    "ios"
+  ],
+  "author": "Juan Pablo Garcia <juanpablo@underscope.io> (https://www.linkedin.com/in/juanpablogarciadalolla)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nitro-build/cli/issues"
+  },
+  "homepage": "https://github.com/nitro-build/cli#readme",
+  "bin": "./nitro",
+  "scripts": {
+    "preinstall": "./preinstall.sh"
+  }
+}
