@@ -1,6 +1,6 @@
 {
   "name": "@nitro-build/cli",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "description": "A build tool for React Native that is up to 10x faster than normal builds",
   "repository": {
     "type": "git",
